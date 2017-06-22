@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0AB818C0F4D7E189A035D81D52942CD9B71CEDAA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0AB818C0F4D7E189A035D81D52942CD9B71CEDAA" : 9223372036854775807,
+    "95ABBDC1853271542AD88BB8A3F0DF081BB47EF5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A9F52411-CBE6-49F5-8264-0309CBA65391",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0AB818C0F4D7E189A035D81D52942CD9B71CEDAA" : "BaseLib\/",
+    "95ABBDC1853271542AD88BB8A3F0DF081BB47EF5" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pods",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/Pods\/Pods.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitserver:\/gitroot\/Pods\/BaseLib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0AB818C0F4D7E189A035D81D52942CD9B71CEDAA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitserver:\/gitroot\/lejia.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95ABBDC1853271542AD88BB8A3F0DF081BB47EF5"
+    }
+  ]
+}

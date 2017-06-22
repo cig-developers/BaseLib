@@ -1,0 +1,78 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/shix/Developer/codes/project/BaseLib/Example/build/Debug-iphonesimulator/BaseLib.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AController.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Pod/Classes/AController.h"
+        },
+        {
+          'type': 'file',
+          'name': "BaseLib-Swift.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Example/build/Debug-iphonesimulator/BaseLib.framework/Headers/BaseLib-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "BaseLib-umbrella.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Example/Pods/Target Support Files/BaseLib/BaseLib-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "BaseLib.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Pod/Classes/BaseLib.h"
+        },
+        {
+          'type': 'file',
+          'name': "BaseModels.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Pod/Classes/BaseModels.h"
+        },
+        {
+          'type': 'file',
+          'name': "BaseView.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Pod/Classes/BaseView.h"
+        },
+        {
+          'type': 'file',
+          'name': "Debug.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Pod/Classes/Debug.h"
+        },
+        {
+          'type': 'file',
+          'name': "Storage.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Pod/Classes/Storage.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+JE.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Pod/Classes/UIView+JE.h"
+        },
+        {
+          'type': 'file',
+          'name': "Utility+Date.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Pod/Classes/Utility+Date.h"
+        },
+        {
+          'type': 'file',
+          'name': "Utility.h",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Pod/Classes/Utility.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/shix/Developer/codes/project/BaseLib/Example/build/Debug-iphonesimulator/BaseLib.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/shix/Developer/codes/project/BaseLib/Example/build/Pods.build/Debug-iphonesimulator/BaseLib.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

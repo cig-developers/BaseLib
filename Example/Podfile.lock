@@ -1,0 +1,14 @@
+PODS:
+  - BaseLib (1.0.0)
+
+DEPENDENCIES:
+  - BaseLib (from `../`)
+
+EXTERNAL SOURCES:
+  BaseLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BaseLib: 67e38c664c9345b9cbc376f74ab17a4986c56911
+
+COCOAPODS: 0.39.0
