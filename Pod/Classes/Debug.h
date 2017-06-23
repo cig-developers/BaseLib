@@ -3,7 +3,7 @@
 //  BaseLib
 //
 //  Created by Sean Shi on 15/10/24.
-//  Copyright © 2015年 车友会. All rights reserved.
+//  Copyright © 2015年 iOS基础工具. All rights reserved.
 //
 
 #ifndef BaseLib_Debug_h

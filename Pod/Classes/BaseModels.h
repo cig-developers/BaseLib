@@ -3,7 +3,7 @@
 //  xcbteacher
 //
 //  Created by Sean Shi on 15/8/15.
-//  Copyright (c) 2015年 车友会. All rights reserved.
+//  Copyright (c) 2015年 iOS基础工具. All rights reserved.
 //
 #ifndef BaseLib_Models_h
 #define BaseLib_Models_h
